@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pangaea-challenge
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-shopping-cart
+>>>>>>> 0c502d70c4bc80258d88183823ec6992934688f1
